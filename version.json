@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 5,
-  "latestVersionName": "1.0-alpha.5",
+  "latestVersionCode": 6,
+  "latestVersionName": "1.0-beta.1",
   "minimumVersionCode": 1,
   "title": "Доступна новая версия",
-  "message": "Вышла DesyncDroyd 1.0-alpha.5",
-  "url": "https://github.com/sigmabosshvh/DesyncDroyd/releases/tag/v1.0-alpha.5"
+  "message": "Вышла DesyncDroyd 1.0-beta.1",
+  "url": "https://github.com/sigmabosshvh/DesyncDroyd/releases/tag/v1.0-beta.1"
 }
